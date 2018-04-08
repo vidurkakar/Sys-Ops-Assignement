@@ -1,4 +1,4 @@
-# Sys-Ops-Assignement (Virginina Tech Cyber Range)
+# Sys-Ops-Assignment (Virginia Tech Cyber Range)
 
 Usage Format: ./run_script [key.pub] [ip_address.txt]
 
